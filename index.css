@@ -60,6 +60,7 @@ body {
 .nav-item ul li:hover{
     color: #fc8019;
 }
+
 .res-container {
     display: flex;
     flex-wrap: wrap;
